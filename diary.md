@@ -37,3 +37,16 @@ open https://www.notion.so/Community-Service-5e7e5e42e212443580e7deeba05ac55c
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
+
+
+## CHCCS007 - Develop & Implement Service Programs ##
+### Week 2 - 16/02/2013 ###
+<br>
+
+#### This is random notes. ####
+
+<br>
+
+#### This is random notes as well.  ####
+
+<br>
