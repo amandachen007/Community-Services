@@ -10,6 +10,8 @@
 
 <br>
 
+open https://www.notion.so/Community-Service-5e7e5e42e212443580e7deeba05ac55c
+
 * CHCLEG003 - Manage Legal and ethical compliance   
   * Assessment 1: 02/03/2023
   * Format: Questions
@@ -31,9 +33,7 @@
 
 
 
-* Assessment 1 - Due Date & Format
-
-| Course    | Due Date | Format 
+| Course    | Due Date | 
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
