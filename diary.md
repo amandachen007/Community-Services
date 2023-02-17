@@ -39,14 +39,24 @@ open https://www.notion.so/Community-Service-5e7e5e42e212443580e7deeba05ac55c
 | Paragraph   | Text        |
 
 
-## CHCCS007 - Develop & Implement Service Programs ##
+## CHCCS007 - CHCLEG003 - Manage Legal and ethical compliance ##
 ### Week 2 - 16/02/2013 ###
+### Lecture: Bek ###
 <br>
 
-#### This is random notes. ####
+### Revision ###
+#### Ethics depends on what you belief, your organization. ####
+* What if it is different from clients? Respect, people from different culture. 
+  * Example: Client wants abortion. Although the worker from Catholic background, he still respect
+Legal: depends on legislation. 
 
 <br>
 
-#### This is random notes as well.  ####
+#### Legal Compliance  ####
+#### Breaches  ####
+* Break the Law.
+  * Keep in mind that the harm and injury can be physical, mental, financial etc.
+  * Result: Injuries, bad reputation, closing down, loss of job
+  * Regulation
 
 <br>
